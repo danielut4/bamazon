@@ -1,0 +1,26 @@
+{
+  "name": "week12",
+  "version": "1.0.0",
+  "description": "storefront online order",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "dotenv": "^6.2.0",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielut4/bamazon"
+  },
+  "bugs": {
+    "url": "https://github.com/danielut4/bamazon/issues"
+  },
+  "homepage": "https://github.com/danielut4/bamazon#readme"
+}
